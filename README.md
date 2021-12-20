@@ -1,0 +1,3 @@
+- Hi, I’m @dcb234
+- I’m interested in basic programming skills for science and research purposes.
+- I’m currently learning python.
